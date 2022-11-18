@@ -20,11 +20,11 @@
   },
   "devDependencies": {
     "broken-link-checker": "^0.7.8",
-    "cz-conventional-changelog": "^2.1.0",
-    "docusaurus": "^1.7.3",
-    "git-cz": "^4.1.0",
-    "react": "^16.6.3",
-    "semantic-release": "^19.0.3"
+    "cz-conventional-changelog": "^3.3.0",
+    "docusaurus": "^1.14.7",
+    "git-cz": "^4.9.0",
+    "react": "^18.2.0",
+    "semantic-release": "^19.0.5"
   },
   "engines": {
     "node": ">=12",
